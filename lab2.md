@@ -35,6 +35,6 @@ L3:![alt text](image-3.png)
 R6:10nF is better.
 A larger capacitor charges more slowly, so it smooths out the rapid voltage spikes caused by switch bounce. With 1nF, the capacitor reacts too fast and the bouncing still gets through. With 10nF, the output rises gently to 5V, giving the microcontroller one clean press instead of multiple false triggers.
 
-V1:https://filehelper.weixin.qq.com/cgi-bin/mmwebwx-bin/webwxgetvideo?msgid=7335005883923425584&mmweb_appid=wx_webfilehelper&skey=%40crypt_2a2658c1_803ee5a7b5cee7bd84b9d6c3440e3fdf&fun=download
+V1: [2135736905.mp4](2135736905.mp4)
 
-V2:https://filehelper.weixin.qq.com/cgi-bin/mmwebwx-bin/webwxgetvideo?msgid=697949885326412140&mmweb_appid=wx_webfilehelper&skey=%40crypt_2a2658c1_803ee5a7b5cee7bd84b9d6c3440e3fdf&fun=download
+V2: [1776219773.mp4](1776219773.mp4)
